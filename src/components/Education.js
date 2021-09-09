@@ -14,6 +14,7 @@ const Education = () => {
           </Col>
           <Col>
             <p>Business College Helsinki</p>
+            <p>Vocational Qualification in Information and Communications Technology</p>
             <p>Full Stack Web Developer Program </p>
           </Col>
         </Row>

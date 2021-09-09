@@ -6,7 +6,7 @@ const HeroBanner = () => {
     <div id="heroBanner">
       <Container>
         <h1>Hello, I'm Oona</h1>
-        <p>Full Stack Web Developer Student</p>
+        <p>Junior Software Developer</p>
       </Container>
     </div>
   );

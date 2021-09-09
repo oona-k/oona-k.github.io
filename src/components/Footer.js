@@ -15,7 +15,7 @@ const Footer = () => {
           <Col md={4}></Col>
           <Col md={4}>
             <p>Contact</p>
-            <p>oona.kakkonen@edu.bc.fi</p>
+            <p>oona.kakkonen@gmail.com</p>
             <a href="https://www.linkedin.com/in/oona-kakkonen/">
               <FontAwesomeIcon className="footerIcon" icon={faLinkedin} />
             </a>
