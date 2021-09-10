@@ -10,11 +10,14 @@ const Education = () => {
         <h2>Education</h2>
         <Row>
           <Col xs={4} md={3}>
-            <p>Jan 2020 - Present</p>
+            <p>Jan 2020 - Jun 2021</p>
           </Col>
           <Col>
             <p>Business College Helsinki</p>
-            <p>Vocational Qualification in Information and Communications Technology</p>
+            <p>
+              Vocational Qualification in Information and Communications
+              Technology
+            </p>
             <p>Full Stack Web Developer Program </p>
           </Col>
         </Row>
