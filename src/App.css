@@ -57,20 +57,10 @@ h2 {
   padding: 50px 0;
 }
 #skills {
-  padding: 50px 0;
+  padding: 50px;
 }
-.skillList {
-  border-radius: 10px;
-  padding: 20px 0;
-}
-#skillCard {
-  text-align: center;
-  padding: 10px;
-  background-color: wheat;
-}
-.certificateImg {
-  max-width: 100%;
-  margin: 10px 0;
+#skillCardsContainer {
+  margin-bottom: 50px;
 }
 .newClass {
   max-width: 200%;
