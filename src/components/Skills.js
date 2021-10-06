@@ -6,7 +6,7 @@ import Image from "react-bootstrap/Image";
 
 import musicAppImg from "../img/music-app.PNG";
 import mtgGameRulesImg from "../img/mtg-rules.PNG";
-import { CardGroup, Card, Badge } from "react-bootstrap";
+import { Card, Badge } from "react-bootstrap";
 
 const skillList = [
   { id: 1, name: "html", time: "1,5 years" },
@@ -16,6 +16,7 @@ const skillList = [
   { id: 5, name: "redux", time: "few months" },
   { id: 6, name: "node", time: "few months" },
   { id: 7, name: "ui design", time: "few months" },
+  { id: 8, name: "typescript", time: "few months" },
 ];
 
 const Skills = () => {
